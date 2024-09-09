@@ -1,0 +1,11 @@
+h1 {
+    color: white;
+    font-family: Papyrus;
+}
+
+#banner {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    border-radius: 10px;
+}
